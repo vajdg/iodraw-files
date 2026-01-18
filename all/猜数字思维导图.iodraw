@@ -8,12 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MC1AAANOTcegv8dOSpk2-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="352" y="30" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="MC1AAANOTcegv8dOSpk2-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="270" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="352" y="40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MC1AAANOTcegv8dOSpk2-8" value="&lt;p&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;guess == 8&lt;/font&gt;&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="336" y="320" width="156" height="80" as="geometry" />
