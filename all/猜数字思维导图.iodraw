@@ -10,39 +10,10 @@
         <mxCell id="MC1AAANOTcegv8dOSpk2-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="352" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MC1AAANOTcegv8dOSpk2-21" target="MC1AAANOTcegv8dOSpk2-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出：&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;你猜对了！&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MC1AAANOTcegv8dOSpk2-24" target="MC1AAANOTcegv8dOSpk2-28" edge="1">
+        <mxCell id="MC1AAANOTcegv8dOSpk2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="MC1AAANOTcegv8dOSpk2-32" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="620" />
-              <mxPoint x="414" y="620" />
-            </Array>
+            <mxPoint x="414" y="790" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-24" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出：&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;你猜错了&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MC1AAANOTcegv8dOSpk2-25" target="MC1AAANOTcegv8dOSpk2-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="170" y="650" />
-              <mxPoint x="414" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出：&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;猜中也没奖励&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="520" width="140" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MC1AAANOTcegv8dOSpk2-28" target="MC1AAANOTcegv8dOSpk2-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MC1AAANOTcegv8dOSpk2-28" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出：&lt;/font&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;游戏结束，不玩啦&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="326" y="690" width="176" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MC1AAANOTcegv8dOSpk2-32" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="860" width="120" height="60" as="geometry" />
