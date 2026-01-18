@@ -73,11 +73,13 @@
         <mxCell id="MC1AAANOTcegv8dOSpk2-32" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="860" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ETfR8tBE1OaQ6oNrdox6-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;启动软件并初始化，加载UI文件显示界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="337" y="100" width="150" height="60" as="geometry" />
+        <mxCell id="ETfR8tBE1OaQ6oNrdox6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETfR8tBE1OaQ6oNrdox6-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ETfR8tBE1OaQ6oNrdox6-3" value="模型参数设置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="180" width="120" height="40" as="geometry" />
+        <mxCell id="ETfR8tBE1OaQ6oNrdox6-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;启动软件并初始化，加载UI文件显示界面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="100" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
