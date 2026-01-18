@@ -81,13 +81,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-24" value="显示训练结果，进行保存，日志记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="190" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETfR8tBE1OaQ6oNrdox6-25" target="MC1AAANOTcegv8dOSpk2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-25" value="显示训练结果，进行保存，日志记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="352" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETfR8tBE1OaQ6oNrdox6-26" target="MC1AAANOTcegv8dOSpk2-32">
           <mxGeometry relative="1" as="geometry">
