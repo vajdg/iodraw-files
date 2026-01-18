@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-5" value="功能模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="352" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ETfR8tBE1OaQ6oNrdox6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ETfR8tBE1OaQ6oNrdox6-8" target="ETfR8tBE1OaQ6oNrdox6-18">
           <mxGeometry relative="1" as="geometry" />
